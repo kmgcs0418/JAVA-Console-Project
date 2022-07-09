@@ -1,0 +1,16 @@
+hosptial
+hosptial.Bbs
+hosptial.domain
+hosptial.login
+hosptial.myPage
+hosptial.searchCovidHospital
+hosptial.searchReservation
+hosptial.signup
+hosptial.usersession.admin
+hosptial.usersession.admin.forummanagement
+hosptial.usersession.admin.forummanagement.forbidden
+hosptial.usersession.admin.forummanagement.forumnboard
+hosptial.usersession.admin.membermanagement
+hosptial.usersession.admin.membermanagement.memberboard
+hosptial.usersession.common
+hosptial.usersession.doctor
