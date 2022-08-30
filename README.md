@@ -2,7 +2,7 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/411e846e-c3de-4576-a243-ca8db4d5f83c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187398508-f546b3c7-7362-4f4a-a718-5f4c82bcd37c.png)
 
 쌍용교육센터에서 진행한 팀 프로젝트입니다. 기존 병원 예약 시스템의 불편함과 병원에 대한 정보 부족 문제를 해결하여 환자의 증상에 맞는 맞춤형 병원 추천과 시간에 구애 없이 번거롭지 않게 예약할 수 있는 프로그램을 구현하고자 기획하였습니다.
 
@@ -57,16 +57,16 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/857b8001-831c-4e8f-a6c9-0f327663321f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187398536-f42febbe-952b-4b26-a375-e890c8f4d9a0.png)
 
 ## 순서도 세부내용
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dde9be73-68c9-43d2-af96-275e8782d6f1/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187398546-75bb285f-35e6-4d56-8463-665782dd955d.png)
 
 ## 순서도 세부사항
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/504ea137-ea49-4174-9680-d02ff50ce2f5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187398567-77795f65-497c-4eb5-8efe-4bd8d4531caa.png)
